@@ -112,7 +112,8 @@ Here are some advanced examples combining multiple options from the cheat sheet 
     search(query="OSCP certification preparation resources", recency_days=90, ethical_hacking_certifications=["OSCP"], active_discussions=True, output_format="bullet_points")
     ```
 
-## Extra thats usefull if you also have specific links you want it to take information from
+## Extra thats useful if you also have specific links you want it to take information from
+### Just remember to change the links to your own
 ```
 Please search the latest information from reputable sources, including but not limited to:
 
