@@ -68,56 +68,57 @@ Each option in the following table offers a unique parameter that you can use to
 ### Example Combined Queries for Specific Use Cases
 
 Here are some advanced examples combining multiple options from the cheat sheet to give you an idea of how to leverage these prompts effectively:
-
+---
 1. **Pentesting Guide with Advanced Tools**:
     ```
     search(query="penetration testing guide", recency_days=90, result_type="guide", include_keywords=["Nmap", "Metasploit"], output_format="table", technical_depth="advanced", max_results=15)
     ```
-
+---
 2. **Threat Intelligence Visualization and Export for Financial Industry**:
     ```
     search(query="threat intelligence trends in finance", recency_days=30, industry_focus="finance", visualize_data="trend_chart", export_format="CSV", rank_by="popularity", include_snippets=True)
     ```
-
+---
 3. **Multi-Language Cybersecurity Policy Documents for Compliance**:
     ```
     search(query="cybersecurity policy updates", recency_days=60, document_type="policy", language="French", translate_to="English", show_metadata=True, cluster_by="region")
     ```
-
+---
 4. **Quick Performance-Based Search on Cloud Security for the EU Region**:
     ```
     search(query="cloud security best practices", recency_days=30, region="EU", fast_mode=True, rank_by="relevance", max_results=5)
     ```
-
+---
 5. **Exportable Phishing Awareness Resources for Employee Training**:
     ```
     search(query="phishing awareness training materials", recency_days=60, result_type="tutorial")
     ```
-
+---
 6. **Privilege Escalation & Exploits for Red Team Assessments**:
     ```
     search(query="Windows privilege escalation techniques", recency_days=30, exploit_type="privilege escalation", CVE_filter=True, include_snippets=True, TTP_mapping=True)
     ```
-
+---
 7. **Blue Team Threat Hunting with Focus on MITRE ATT&CK TTPs**:
     ```
     search(query="threat hunting methods for detecting lateral movement", recency_days=60, threat_hunting_methods=True, TTP_mapping=True, SIEM_integration="Splunk", output_format="table")
     ```
-
+---
 8. **Reconnaissance Tools for Passive OSINT and Subdomain Enumeration**:
     ```
     search(query="passive OSINT tools for subdomain enumeration", recency_days=90, passive_vs_active_recon="passive", subdomain_enum_tools=True, honeypot_detection=True, include_snippets=True)
     ```
-
+---
 9. **Coding for Exploit Development with Python Focus**:
     ```
     search(query="Python scripting for exploit development", recency_days=30, script_language="Python", code_samples=True, obfuscation_methods=True, development_environment="Kali Linux")
     ```
-
+---
 10. **Community Discussions on Ethical Hacking Certification Paths**:
     ```
     search(query="OSCP certification preparation resources", recency_days=90, ethical_hacking_certifications=["OSCP"], active_discussions=True, output_format="bullet_points")
     ```
+---
 
 ## Extra thats useful if you also have specific links you want it to take information from
 ### Just remember to change the links to your own
