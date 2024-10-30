@@ -68,7 +68,6 @@ Each option in the following table offers a unique parameter that you can use to
 ### Example Combined Queries for Specific Use Cases
 
 Here are some advanced examples combining multiple options from the cheat sheet to give you an idea of how to leverage these prompts effectively:
----
 
 1. **Pentesting Guide with Advanced Tools**:
 
