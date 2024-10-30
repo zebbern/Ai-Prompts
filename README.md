@@ -20,7 +20,7 @@ Each option in the following table offers a unique parameter that you can use to
 - **Example Combined Queries**
 - **Specific links Search**
 - **Contributions**
-
+---
 
 | **Option** | **Description** | **Example Usage** |
 | --- | --- | --- |
