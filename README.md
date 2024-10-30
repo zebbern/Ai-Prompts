@@ -9,7 +9,7 @@ The following cheat sheet provides a complete list of prompts, search options, a
 - **Optimize search accuracy**: Customize searches to get relevant and detailed responses.
 - **Refine information retrieval**: Narrow down results based on keywords, sources, or timeframes.
 - **Simplify complex searches**: Combine options to address specific use cases.
----
+
 ### How to Use This Guide
 
 Each option in the following table offers a unique parameter that you can use to control the kind of search results you want to generate. Combine multiple options to get customized results for specific use cases, whether for penetration testing, threat intelligence, or general information gathering.
