@@ -28,7 +28,7 @@ Each option in the following table offers a unique parameter that you can use to
 - Contributions
 ---
 
-# queries-for-specific-cases
+# Queries-For-Specific-Cases
 
 | **Option** | **Description** | **Example Usage** |
 | --- | --- | --- |
