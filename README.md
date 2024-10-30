@@ -17,7 +17,7 @@ Each option in the following table offers a unique parameter that you can use to
 ## Table of Contents
 - [Queries for Specific Cases](#queries-for-specific-cases)
 - [Example Combined Queries](#Example-Combined-Queries-for-Specific-Use-Cases)
-- [Specific Links Search](#specific-links-search)
+- [Specific Links Search](#Extra-thats-useful-if-you-also-have-specific-links-you-want-it-to-take-information-from)
 - [Contributions](#contributions)
 
 ### Page Setup Summary:
