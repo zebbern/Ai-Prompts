@@ -14,6 +14,10 @@ The following cheat sheet provides a complete list of prompts, search options, a
 
 Each option in the following table offers a unique parameter that you can use to control the kind of search results you want to generate. Combine multiple options to get customized results for specific use cases, whether for penetration testing, threat intelligence, or general information gathering.
 
+- **Queries For Specific Cases**
+- **Example Combined Queries**
+- **Specific links Search**
+- **Contributions**
 ---
 
 | **Option** | **Description** | **Example Usage** |
