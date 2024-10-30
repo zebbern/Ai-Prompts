@@ -70,24 +70,22 @@ Each option in the following table offers a unique parameter that you can use to
 Here are some advanced examples combining multiple options from the cheat sheet to give you an idea of how to leverage these prompts effectively:
 
 1. **Pentesting Guide with Advanced Tools**:
----
+
     ```
     search(query="penetration testing guide", recency_days=90, result_type="guide", include_keywords=["Nmap", "Metasploit"], output_format="table", technical_depth="advanced", max_results=15)
     ```
----
+
 3. **Threat Intelligence Visualization and Export for Financial Industry**:
----
+
     ```
     search(query="threat intelligence trends in finance", recency_days=30, industry_focus="finance", visualize_data="trend_chart", export_format="CSV", rank_by="popularity", include_snippets=True)
     ```
----
 
 5. **Multi-Language Cybersecurity Policy Documents for Compliance**:
----
+
     ```
     search(query="cybersecurity policy updates", recency_days=60, document_type="policy", language="French", translate_to="English", show_metadata=True, cluster_by="region")
     ```
----
 
 7. **Quick Performance-Based Search on Cloud Security for the EU Region**:
     ```
