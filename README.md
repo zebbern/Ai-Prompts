@@ -112,6 +112,31 @@ Here are some advanced examples combining multiple options from the cheat sheet 
     search(query="OSCP certification preparation resources", recency_days=90, ethical_hacking_certifications=["OSCP"], active_discussions=True, output_format="bullet_points")
     ```
 
+## Extra thats usefull if you also have specific links you want it to take information from
+```
+Please search the latest information from reputable sources, including but not limited to:
+
+- Vulnerability databases: CVE ([**https://cve.mitre.org/**](https://cve.mitre.org/)), NVD ([**https://nvd.nist.gov/**](https://nvd.nist.gov/)), and VulnDB ([**https://vulndb.cyberriskanalytics.com/**](https://vulndb.cyberriskanalytics.com/))
+- Cybersecurity news and blogs: The Hacker News ([**https://thehackernews.com/**](https://thehackernews.com/)), Cybersecurity News ([**https://www.cybersecuritynews.com/**](https://www.cybersecuritynews.com/)), and Dark Reading ([**https://www.darkreading.com/**](https://www.darkreading.com/))
+- Online forums and communities: Reddit's netsec community ([**https://www.reddit.com/r/netsec/**](https://www.reddit.com/r/netsec/)), Stack Overflow ([**https://stackoverflow.com/**](https://stackoverflow.com/)), and GitHub ([**https://github.com/**](https://github.com/))
+
+Using the latest information from these sources, please answer the following question:
+
+[Insert your question here]
+
+```
+```
+Please search the latest information from reputable sources, including but not limited to:
+
+- Vulnerability databases: CVE ([**https://cve.mitre.org/**](https://cve.mitre.org/)), NVD ([**https://nvd.nist.gov/**](https://nvd.nist.gov/)), and VulnDB ([**https://vulndb.cyberriskanalytics.com/**](https://vulndb.cyberriskanalytics.com/))
+- Cybersecurity news and blogs: The Hacker News ([**https://thehackernews.com/**](https://thehackernews.com/)), Cybersecurity News ([**https://www.cybersecuritynews.com/**](https://www.cybersecuritynews.com/)), and Dark Reading ([**https://www.darkreading.com/**](https://www.darkreading.com/))
+- Online forums and communities: Reddit's netsec community ([**https://www.reddit.com/r/netsec/**](https://www.reddit.com/r/netsec/)), Stack Overflow ([**https://stackoverflow.com/**](https://stackoverflow.com/)), and GitHub ([**https://github.com/**](https://github.com/))
+
+Using the latest information from these sources, please answer the following question:
+
+[Insert your question here]
+```
+
 ### Contributions
 
 If you would like to contribute, please feel free to fork this repository, add your own examples, or improve existing prompts. Your input will help make this resource even more powerful and useful for everyone involved.
