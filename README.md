@@ -28,6 +28,8 @@ Each option in the following table offers a unique parameter that you can use to
 - Contributions
 ---
 
+#queries-for-specific-cases
+
 | **Option** | **Description** | **Example Usage** |
 | --- | --- | --- |
 | `query` | Main search term or topic | `query="latest cybersecurity trends"` |
