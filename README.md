@@ -151,7 +151,7 @@ Using the latest information from these sources, please answer the following que
 
 ### Contributions
 
-If you would like to contribute, please feel free to fork this repository, add your own examples, or improve existing prompts. Your input will help make this resource even more powerful and useful for everyone involved.
+If you would like to contribute, please feel free to fork this repository, add your own examples, or improve existing prompts. Your input will help make this resource even more powerful and useful for everyone involved...
 
 ---
 
