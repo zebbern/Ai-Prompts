@@ -1,18 +1,10 @@
 # GPT Search Prompts
 
-Welcome to **GPT Search Prompts**! This repository is dedicated to providing a detailed and comprehensive set of search prompts designed to optimize the use of AI, like GPT, for more accurate and context-driven information retrieval. Whether you're a cybersecurity professional, researcher, or just exploring AI-powered tools, these prompts will help you refine your queries, get precise answers, and make the most of GPT's capabilities.
-
-## Introduction
-
 The following cheat sheet provides a complete list of prompts, search options, and example usages that are useful for guiding GPT or other AI models in retrieving specific, actionable, and reliable information. These prompts are specifically tailored to help you:
 
 - **Optimize search accuracy**: Customize searches to get relevant and detailed responses.
 - **Refine information retrieval**: Narrow down results based on keywords, sources, or timeframes.
 - **Simplify complex searches**: Combine options to address specific use cases.
-
-### How to Use This Guide
-
-Each option in the following table offers a unique parameter that you can use to control the kind of search results you want to generate. Combine multiple options to get customized results for specific use cases, whether for penetration testing, threat intelligence, or general information gathering.
 
 ## Table of Contents
 - [Queries for Specific Cases](#queries-for-specific-cases)
