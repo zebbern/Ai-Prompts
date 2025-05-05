@@ -1,7 +1,7 @@
 ## GPT Search Prompts
 
 > The following cheat sheet provides a complete list of prompts, search options, and example usages that are useful for guiding GPT or other AI models in retrieving specific, actionable, and reliable information. These prompts are specifically tailored to help you:
-> 
+
 > - **Optimize search accuracy**: Customize searches to get relevant and detailed responses.
 > - **Refine information retrieval**: Narrow down results based on keywords, sources, or timeframes.
 > - **Simplify complex searches**: Combine options to address specific use cases.
