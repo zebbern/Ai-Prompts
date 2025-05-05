@@ -8,10 +8,13 @@
 
 ---
 
-- [Queries for Specific Cases](#queries-for-specific-cases)
-- [Example Combined Queries](#Example-Combined-Queries-for-Specific-Use-Cases)
-- [Specific Links Search](#Extra-thats-useful-if-you-also-have-specific-links-you-want-it-to-take-information-from)
-- [Contributions](#contributions)
+| **Table of Context** |
+| --- |
+|[Queries for Specific Cases](#queries-for-specific-cases)|
+|[Example Combined Queries](#Example-Combined-Queries-for-Specific-Use-Cases)|
+[Specific Links Search](#Extra-thats-useful-if-you-also-have-specific-links-you-want-it-to-take-information-from)|
+|[Contributions](#contributions)|
+
 ---
 
 # Queries For Specific Cases
