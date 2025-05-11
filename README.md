@@ -8,6 +8,8 @@
 
 ---
 
+<div align="center">
+
 | **Table of Context** |
 | --- |
 |[Queries for Specific Cases](#queries-for-specific-cases)|
@@ -15,9 +17,20 @@
 [Specific Links Search](#Extra-thats-useful-if-you-also-have-specific-links-you-want-it-to-take-information-from)|
 |[Contributions](#contributions)|
 
+ </div>
+
+---
+### Example Of A `Copy Paste` Prompt To AI Such As (ChatGPT):
+
+**Community Discussions on Ethical Hacking Certification Paths**:
+
+```
+search(query="OSCP certification preparation resources", recency_days=90, ethical_hacking_certifications=["OSCP"], active_discussions=True, output_format="bullet_points")
+```
+
 ---
 
-# Queries For Specific Cases
+## Queries For Specific Cases
 
 | **Option** | **Description** | **Example Usage** |
 | --- | --- | --- |
@@ -111,11 +124,6 @@ Here are some advanced examples combining multiple options from the cheat sheet 
 12. **Coding for Exploit Development with Python Focus**:
     ```
     search(query="Python scripting for exploit development", recency_days=30, script_language="Python", code_samples=True, obfuscation_methods=True, development_environment="Kali Linux")
-    ```
-
-13. **Community Discussions on Ethical Hacking Certification Paths**:
-    ```
-    search(query="OSCP certification preparation resources", recency_days=90, ethical_hacking_certifications=["OSCP"], active_discussions=True, output_format="bullet_points")
     ```
 ---
 
